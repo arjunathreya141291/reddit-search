@@ -83,6 +83,7 @@ const CarouselComp = () => {
           currentPage={currentPage}
           setCurrentPage={setCurrentPage}
         />
+        <p>This is just a test</p>
       </div>
     );
   } else {
